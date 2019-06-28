@@ -4,6 +4,7 @@
 <title>My file</title>
 </head>
 <body>
-<h1>thus is ...</h1>
+<h1>this is ...</h1>
+<p>this is a paragraph</p>
 </body>
 </html>
